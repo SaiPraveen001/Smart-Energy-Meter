@@ -13,6 +13,8 @@ This project is a smart energy monitoring and control system built using an ESP3
 ![Circuit Diagram](images/circuit_diagram.png)
 ![Working Model](images/working_model.jpg)
 
+🔗 [View More Photos & Videos on Google Photos](https://photos.app.goo.gl/PedPN4UQQjrWGc3SA)
+
 ## 🔧 Hardware Components
 - ESP32 Dev Module
 - Voltage Sensor Module

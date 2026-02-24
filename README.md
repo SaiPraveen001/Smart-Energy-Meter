@@ -10,7 +10,7 @@ This project is a smart energy monitoring and control system built using an ESP3
 - Remote monitoring and control via smartphone
 
 ## 📷 Project Images
-🔗 [View Full Album on Google Photos](https://photos.app.goo.gl/PedPN4UQQjrWGc3SA)
+🔗 https://drive.google.com/drive/folders/1SWJDOGiTJWHpV6iwFQeIThx4FQevxJaW?usp=sharing
 
 ## 🔧 Hardware Components
 - ESP32 Dev Module
